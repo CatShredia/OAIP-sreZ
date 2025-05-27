@@ -1,0 +1,15 @@
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\bin\Debug\net6.0\2task.exe
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\bin\Debug\net6.0\2task.deps.json
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\bin\Debug\net6.0\2task.runtimeconfig.json
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\bin\Debug\net6.0\2task.dll
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\bin\Debug\net6.0\2task.pdb
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\2task.csproj.AssemblyReference.cache
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\2task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\2task.AssemblyInfoInputs.cache
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\2task.AssemblyInfo.cs
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\2task.csproj.CoreCompileInputs.cache
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\2task.dll
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\refint\2task.dll
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\2task.pdb
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\2task.genruntimeconfig.cache
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\2task\obj\Debug\net6.0\ref\2task.dll

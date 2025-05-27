@@ -1,0 +1,31 @@
+﻿<Window x:Class="_3task.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_3task"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Column="0" Margin="10">
+            <TextBlock Text="Рост(в см)"></TextBlock>
+            <TextBox x:Name="inputHeightHuman"></TextBox>
+
+            <TextBlock Text="Вес(в кг)"></TextBlock>
+            <TextBox x:Name="inputVesHuman"></TextBox>
+            <Button Content="Рассчитать" Margin="5" Click="Button_Click"></Button>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="10">
+            <Border BorderThickness="0.5" BorderBrush="Black">
+                <TextBlock Text="Ваш ИМТ: 0" x:Name="outputIMT"></TextBlock>
+            </Border>
+                <TextBlock Text="" x:Name="outputVes"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\bin\Debug\3task.exe.config
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\bin\Debug\3task.exe
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\bin\Debug\3task.pdb
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\3task.csproj.AssemblyReference.cache
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\3task.csproj.SuggestedBindingRedirects.cache
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\MainWindow.g.cs
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\App.g.cs
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\3task_MarkupCompile.cache
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\3task_MarkupCompile.lref
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\MainWindow.baml
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\3task.g.resources
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\_3task.Properties.Resources.resources
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\3task.csproj.GenerateResource.cache
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\3task.csproj.CoreCompileInputs.cache
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\3task.exe
+C:\Users\212308\Desktop\EvimovFolder\EvimovSolution\3task\obj\Debug\3task.pdb
